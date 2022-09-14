@@ -1,3 +1,3 @@
 ---
-title: JB Bobo
+title: Feed
 ---
